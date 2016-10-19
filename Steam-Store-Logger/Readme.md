@@ -17,4 +17,5 @@
 
 #Error Message
 This means there are no more emails left to process:
-![Completed](error_finished.png)
+
+![Completed](error_finished.PNG)
