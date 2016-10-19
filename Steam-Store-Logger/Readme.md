@@ -14,3 +14,7 @@
 
 #Sample Spreadsheet
 ![Here's my suggestion](Sample%20Spreadsheet%20Headers.png)
+
+#Error Message
+This means there are no more emails left to process:
+![Completed](error_finished.png)
