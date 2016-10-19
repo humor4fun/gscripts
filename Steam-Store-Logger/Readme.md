@@ -10,3 +10,7 @@
 * Let it run, if it times out, run it again
 * Pretty up the spreadsheet with a header row
 * You can use this formula to sum the income and watch the script run in realtime ```=ArrayFormula(sum(G2:G*1))```
+* Set up IFTTT Recipe ```https://ifttt.com/recipes/477205-steam-store-logger``` So that this will continue to run automagically
+
+#Sample Spreadsheet
+![Here's my suggestion](Sample%20Spreadsheet%20Headers.png)
